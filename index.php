@@ -8,5 +8,8 @@ function hello(){
 }
 
 echo hello();
-
-//master    
+$i=0;
+//master
+while($i<10){
+    echo $i.PHP_EOL;
+}
