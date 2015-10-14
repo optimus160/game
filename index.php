@@ -3,7 +3,7 @@
 namespace abc;
 
 function hello(){
-    return "Hi.";
+    return "Bought mother a horse";
 }
 
 echo hello();
