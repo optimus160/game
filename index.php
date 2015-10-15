@@ -13,8 +13,12 @@ $i=0;
 while($i<10){
     echo $i.PHP_EOL;
 }
-
 while($i<10){
     echo $i.PHP_EOL;
 }
-    
+function rebase(){
+    $a='Perform'
+        .'work'
+        .'well';
+    return $a;
+}    
